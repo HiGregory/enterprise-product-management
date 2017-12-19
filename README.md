@@ -1,4 +1,10 @@
-<img src="https://raw.githubusercontent.com/tron1991/open-product-management/master/logo.png">
+<img src="http://i179.photobucket.com/albums/w295/skreachy/EPManagement_zpsdz5rcyh4.png">
+
+#### Update
+This is a fork of Open Product Management focused on purely Enterprise Software based article. The problem
+is most PM content is focused on managing products for the consumer web but more and more companies selling
+to enterprise clients have different needs when it comes to being a PM. This is an ongoing document that
+will change overtime with more enterprise focused material.
 
 ##### About
 A curated list of product management advice from frameworks, interviews, experts, resources, books, products, career preps, and much more.
@@ -546,4 +552,4 @@ wireframes, mockups, diagrams and prototypes.
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
-To the extent possible under law, [Nicholas Ivanecky](https://github.com/tron1991) has waived all copyright and related or neighboring rights to this work.
+
