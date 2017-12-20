@@ -1,6 +1,6 @@
 <img src="http://i179.photobucket.com/albums/w295/skreachy/EPManagement_zpsdz5rcyh4.png">
 
-#### Update
+#### Update - Work in Progress
 This is a fork of Open Product Management focused on purely Enterprise Software based article. The problem
 is most PM content is focused on managing products for the consumer web but more and more companies selling
 to enterprise clients have different needs when it comes to being a PM. This is an ongoing document that
