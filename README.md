@@ -1,4 +1,4 @@
-<img src="http://i179.photobucket.com/albums/w295/skreachy/EPManagement_zpsdz5rcyh4.png">
+<img src="https://github.com/HiGregory/enterprise-product-management/blob/master/EPManagement_zpsdz5rcyh4.PNG">
 
 #### Update - Work in Progress
 This is a fork of Open Product Management focused on purely Enterprise Software based article. The problem
